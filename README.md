@@ -15,10 +15,11 @@ allprojects {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}
-	dependencies {
-	        implementation 'com.github.ProProfs-Workflow:chat_android_sdk:Tag'
-	}
+}
+
+dependencies {
+	   implementation 'com.github.ProProfs-Workflow:chat_android_sdk:0.0.1'
+}
 ```
 ## Step 2. Code Integration
 #### Initialize the Client

@@ -12,7 +12,7 @@ internal object ApiAdapter {
 
     val apiClient: ApiClient = Retrofit.Builder()
         .baseUrl(BaseUrl.ApiUrl)
-        .client(okHttpClient)
+        .client(OkHttpClient())
         .addConverterFactory(GsonConverterFactory.create())
         .build()
         .create(ApiClient::class.java)

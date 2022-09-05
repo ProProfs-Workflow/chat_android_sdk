@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.chat.sdk.ProProfsChat
 
 class MainActivity : AppCompatActivity() {
-    private var liveSiteId: String = "MXd4bDEwYzFRbW5oNVpBaDI4WUQ1QT09"
+    private var liveSiteId: String = ""
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

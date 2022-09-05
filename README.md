@@ -7,7 +7,7 @@
 
 The recommended way to install the library for Android is with build system like Gradle.
 
-Simply add the `com.github.ProProfs-Workflow:chat_android_sdk:Tag` dependency to your app's `build.gradle` file:
+Simply add the `com.github.ProProfs-Workflow:chat_android_sdk:0.0.1` dependency to your app's `build.gradle` file:
 
 ```javascript
 allprojects {
@@ -23,17 +23,18 @@ allprojects {
 ## Step 2. Code Integration
 #### Initialize the Client
 In order to be able to use  SDK you need to add chat bubble inside a layout
+
 Eg.
 ```kotlin
 class MainActivity : AppCompatActivity() {
         private var siteId: String = "<your-site-id>"
         override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        val layout = findViewById<LinearLayout>(R.id.layout_id)
+            super.onCreate(savedInstanceState)
+            setContentView(R.layout.activity_main)
+            val layout = findViewById<LinearLayout>(R.id.layout_id)
             val bubble = ProProfsChat(this, siteId).init()
-                layout.addView(bubble)
-            }
-        }        
+            layout.addView(bubble) 
+        }
+}        
 ```
 

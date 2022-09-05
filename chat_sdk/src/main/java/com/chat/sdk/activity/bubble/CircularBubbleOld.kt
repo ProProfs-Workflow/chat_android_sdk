@@ -27,7 +27,6 @@ internal class CircularBubbleOld{
                 CircularBubbleType.FEMALE.type -> {
                     val imageView = createImageView(view.context)
                     imageView.setImageResource(R.drawable.female)
-//                    imageView.scaleType = ImageView.ScaleType.FIT_XY
                     this!!.addView(imageView)
                 }
                 CircularBubbleType.MALE.type -> {

@@ -3,7 +3,6 @@ package com.chat.sdk
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
-import android.util.Log
 import android.view.View
 import com.chat.sdk.activity.bubble.*
 import com.chat.sdk.activity.chat.ChatActivity
@@ -62,7 +61,6 @@ class ProProfsChat(private val context: Context, private val site_id: String) :
                 "", "", "","0"
             )
             chatSettingData = response.body()
-            Log.d("chatSettingData",chatSettingData.toString())
             if (chatSettingData?._ProProfs_SDK_Status == "1") {
                 chatStatus = chatSettingData!!.chat_status.status
                 Session(sharedPreferences).setKey(

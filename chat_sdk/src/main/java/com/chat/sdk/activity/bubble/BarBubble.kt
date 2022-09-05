@@ -42,7 +42,6 @@ internal class BarBubble {
     @SuppressLint("InflateParams")
     private fun onlineIcon(context: Context): View? {
         val iconLayout = LayoutInflater.from(context).inflate(R.layout.online_status_layout, null)
-//        val width = ScreenUtil().getScreenWidth(context) / 4
         iconLayout.layoutParams = LinearLayout.LayoutParams( ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT)
         return iconLayout
     }

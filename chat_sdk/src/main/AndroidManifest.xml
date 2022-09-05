@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chat.sdk">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application>
+        <activity
+            android:name="com.chat.sdk.activity.chat.ChatActivity"
+            android:theme="@style/Theme.ChatSDK"/>
+        <activity
+            android:name="com.chat.sdk.activity.form.FormActivity"
+            android:theme="@style/Theme.ChatSDK" />
+    </application>
+
+</manifest>

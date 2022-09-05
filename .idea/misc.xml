@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.19444444444444445" />
+        <entry key="../../ChatSdk/Demo/app/src/main/res/layout/activity_main.xml" value="0.25277777777777777" />
+        <entry key="../../ChatSdk/Demo/app/src/main/res/layout/activity_main2.xml" value="0.24270833333333333" />
+        <entry key="../../ChatSdk/Demo/app/src/main/res/layout/fragment_bubble.xml" value="0.24270833333333333" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable-v21/circular_bubble_bg.xml" value="0.105" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/bar_bubble_bg.xml" value="0.1245" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/bubble_shadow.xml" value="0.1325" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/circular_bubble_bg.xml" value="0.1" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/edit_text_border.xml" value="0.1665" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/ic_close.xml" value="0.105" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/ic_down_arrow.xml" value="0.105" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/ic_iconmonstr_star_3.xml" value="0.1035" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/ic_send.xml" value="0.105" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/offline_icon.xml" value="0.1035" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/online_icon.xml" value="0.1015" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/opertator_chat_bubble.xml" value="0.1665" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/send_btn_background.xml" value="0.2725" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/slide_up.xml" value="0.105" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/star.xml" value="0.1035" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/star_big.xml" value="0.1035" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/drawable/visitor_chat_bubble.xml" value="0.1665" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout-v21/activity_form.xml" value="0.28802083333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout-v28/custom_toolbar.xml" value="0.27395833333333336" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout-v28/form_filed_text.xml" value="0.2171875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/activity_form.xml" value="0.2171875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/activity_pre_post.xml" value="0.24512820512820513" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/bubble_bar.xml" value="0.24791666666666667" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/chat_item.xml" value="0.25" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/checkb0x_item.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/checkbox_item.xml" value="0.15092592592592594" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/circular_bubble.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/circular_icon.xml" value="0.2546875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/custom_loader.xml" value="0.20677083333333332" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/custom_toolbar.xml" value="0.20260416666666667" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/field_type_text.xml" value="0.2421875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/field_type_textarea.xml" value="0.2421875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/footer.xml" value="0.2234375" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_field_dropdown.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_field_textarea.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_filed_checkbox.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_filed_radio.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_filed_text.xml" value="0.2171875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_filed_text_type.xml" value="0.2171875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/form_item.xml" value="0.27395833333333336" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/fragment_bubble.xml" value="0.2890625" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/online_icon.xml" value="0.2546875" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/online_status_layout.xml" value="0.2557291666666667" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/operator_chat_view.xml" value="0.27447916666666666" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/pre_post_item.xml" value="0.335" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/radio_item.xml" value="0.21614583333333334" />
+        <entry key="../../ChatSdk/Demo/chat_sdk/src/main/res/layout/visitor_chat_view.xml" value="0.2890625" />
+        <entry key="chat_sdk/src/main/res/layout-v28/custom_toolbar.xml" value="0.1" />
+        <entry key="chat_sdk/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="chat_sdk/src/main/res/layout/activity_pre_post.xml" value="0.1" />
+        <entry key="chat_sdk/src/main/res/layout/chat_item.xml" value="0.20625" />
+        <entry key="chat_sdk/src/main/res/layout/custom_toolbar.xml" value="0.1" />
+        <entry key="chat_sdk/src/main/res/layout/fragment_bubble.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
